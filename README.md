@@ -1,5 +1,5 @@
 # DWE
-Code for this paper: [Decoupling with Wavelet-Based Equalization for Fully- and Semi-Supervised Biomedical Image Segmentation](https://link.springer.com/chapter/10.1007/978-981-95-5634-2_35).
+This repository is an official implementation of the paper [Decoupling with Wavelet-Based Equalization for Fully- and Semi-Supervised Biomedical Image Segmentation](https://link.springer.com/chapter/10.1007/978-981-95-5634-2_35).
 
 ## Citation
 
